@@ -9,5 +9,3 @@
 3. [Integer to String conversion](http://javadevnotes.com/java-integer-to-string-examples) and [String to Integer conversion](https://www.mkyong.com/java/java-convert-string-to-int/) assistance
 4. [parseInt()](https://www.tutorialspoint.com/java/number_parseint.htm) method API
 5. [Scanner useRadix(int radix)](http://javatutorialhq.com/java/util/scanner-class-tutorial/useradix-radix-method-example/) method API example
-
-#### Extra Credit Task Completed 
